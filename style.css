@@ -1,0 +1,63 @@
+:root{
+    --text-color: #b4ad9e;
+
+
+--heading-color: #626262;
+
+--head-color: #000000;
+
+--taxt-color: #ffffff;
+
+    --accent-color: #03A9F4;
+}
+.nav-list-link{
+    color: var(--accent-color);
+}
+
+.list-li-p{
+    color: var(--text-color);
+}
+
+.nav-list-li{
+    color: var(--head-color);
+}
+
+.list-h2{
+    color: var(--heading-color);
+}
+
+.list-li-p{
+    color: rgba(0, 0, 0, 20%);
+}
+.list-h2{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.list-p{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-list-link{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-list-li{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.list-li-p{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
